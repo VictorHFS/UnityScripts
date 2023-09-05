@@ -1,0 +1,7 @@
+**/*.unity**
+**/*.pdf**
+**/*.asset**
+**/*.mat**
+**/*.meta
+**/*.meta
+!**/*cs.meta
